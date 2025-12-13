@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 🐾 **Namita Narang**
 ### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=900&color=F7A9D6&center=true&vCenter=true&width=550&lines=AI%2FML+Learner;Deep+Learning+Enthusiast;Building+Projects+One+Model+at+a+Time;Cat+Powered+Coder" />
